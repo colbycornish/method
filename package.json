@@ -1,11 +1,12 @@
 {
   "name": "method",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "devDependencies": {
     "compass-mixins": "^0.12.3",
     "connect-modrewrite": "~0.7.0",
     "grunt": "~0.4.5",
     "grunt-autoprefixer": "~2.0.0",
+    "grunt-bump": "^0.3.0",
     "grunt-connect-rewrite": "~0.2.1",
     "grunt-contrib-clean": "~0.6.0",
     "grunt-contrib-concat": "~0.5.0",
